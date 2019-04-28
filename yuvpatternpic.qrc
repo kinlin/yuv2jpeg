@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>NV12.png</file>
+        <file>NV16.png</file>
+        <file>NV21.png</file>
+        <file>NV61.png</file>
+        <file>YV12.png</file>
+        <file>YV21.png</file>
+    </qresource>
+</RCC>
